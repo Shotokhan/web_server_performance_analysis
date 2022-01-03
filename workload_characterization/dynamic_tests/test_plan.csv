@@ -1,0 +1,19 @@
+Dimensione file in download,Dimensione file in upload,Formato file,Dinamicità richiesta,Intensità di calcolo,Richiesta di storage,Numero di istanze differenti
+low,none,binario,statico,low,none,5
+medium,none,binario,statico,low,none,5
+high,none,binario,statico,low,none,5
+none,low,binario,dinamico,low,low,5
+none,medium,binario,dinamico,low,low,5
+none,high,binario,dinamico,low,low,5
+low,none,testuale,statico,low,none,5
+medium,none,testuale,statico,low,none,5
+high,none,testuale,statico,low,none,5
+none,low,testuale,dinamico,low,low,5
+none,medium,testuale,dinamico,low,low,5
+none,high,testuale,dinamico,low,low,5
+none,none,testuale,dinamico,low,none,5
+none,none,testuale,dinamico,medium,none,5
+none,none,testuale,dinamico,high,none,5
+none,none,testuale,dinamico,low,low,5
+none,none,testuale,dinamico,low,medium,5
+none,none,testuale,dinamico,low,high,5
